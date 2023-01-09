@@ -12,7 +12,7 @@ GNSS Radio Occultation Data in the AWS Cloud
 
 # Tutorials
 - Readme
-- [IROWG Notebook1](https://github.com/gnss-ro/aws-opendata/blob/master/tutorials/opac7irowg9_workshop.ipynb)  
+- [IROWG Notebook1](https://raw.githubusercontent.com/gnss-ro/aws-opendata/master/tutorials/plot_count_occultations)
 
 
 # Utilities
