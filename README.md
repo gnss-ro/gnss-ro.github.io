@@ -12,7 +12,9 @@ GNSS Radio Occultation Data in the AWS Cloud
 
 # Tutorials
 - Readme
-- [Notebook1](https://github.com/gnss-ro/aws-opendata/blob/master/tutorials/opac7irowg9_workshop.ipynb)  
+- [IROWG Notebook1](https://github.com/gnss-ro/aws-opendata/blob/master/tutorials/opac7irowg9_workshop.ipynb)  
+
+
 # Utilities
 - Readme
 - DynamoDB
